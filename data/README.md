@@ -1,22 +1,15 @@
+## Data Folder
 
-## Dataset Description
+This folder contains cleaned and preprocessed datasets used in the project.
 
-The dataset contains plastic waste composition data collected at:
-- Country level
-- City level
+### Files:
+- country_plastic_clean_2024.csv  
+  Cleaned country-level plastic waste composition data (2024).
 
-### Key Columns:
-- region_id
-- country_name
-- city_name (city dataset only)
-- composition_plastic_percent
+- city_plastic_clean_2024.csv  
+  Cleaned city-level plastic waste composition data (2024).
 
-### Data Cleaning:
-- Missing values removed
-- Focused on regions with high plastic contribution
-- Data filtered for analysis consistency
-
-### Data Usage:
-- 2024: Base year analysis
-- 2025: Prediction using growth assumption
-- 2026: Landfill risk classification
+### Notes:
+- Missing values were removed before analysis.
+- Data was filtered to focus on high plastic waste contributors.
+- These datasets were used for EDA, prediction, and risk analysis.
