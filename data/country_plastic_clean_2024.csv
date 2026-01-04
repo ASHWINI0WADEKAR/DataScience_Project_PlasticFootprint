@@ -1,0 +1,176 @@
+region_id,country_name,composition_plastic_percent
+SSF,Angola,13.5
+ECS,Albania,9.6
+ECS,Andorra,11.3
+MEA,United Arab Emirates,19
+LCN,Argentina,14.61
+ECS,Armenia,11.4
+EAS,American Samoa,12.8
+LCN,Antigua and Barbuda,13
+EAS,Australia,7.61
+ECS,Austria,11.1
+ECS,Azerbaijan,7.87
+SSF,Burundi,3.5
+ECS,Belgium,13.94
+SSF,Benin,7.3
+SSF,Burkina Faso,9
+SAS,Bangladesh,4.67
+ECS,Bulgaria,12.15
+MEA,Bahrain,7.4
+LCN,"Bahamas, The",13
+ECS,Belarus,12
+LCN,Belize,19
+NAC,Bermuda,13
+LCN,Bolivia,10.19305019
+LCN,Brazil,13.5
+LCN,Barbados,17.1
+EAS,Brunei Darussalam,16
+SAS,Bhutan,13
+NAC,Canada,3
+ECS,Switzerland,15
+LCN,Chile,9.4
+EAS,China,9.8
+SSF,Cameroon,3.3
+LCN,Colombia,12.83
+SSF,Comoros,5
+LCN,Costa Rica,11
+LCN,Cuba,9.6
+LCN,Cayman Islands,11
+ECS,Cyprus,14.77
+ECS,Czech Republic,2.2
+ECS,Germany,13
+LCN,Dominica,16
+ECS,Denmark,1.61
+LCN,Dominican Republic,10
+MEA,Algeria,16.9
+LCN,Ecuador,11.44
+MEA,"Egypt, Arab Rep.",13
+ECS,Spain,9
+ECS,Estonia,18.6
+SSF,Ethiopia,2.3
+ECS,Finland,1.45
+EAS,Fiji,7.5
+ECS,France,9
+EAS,"Micronesia, Fed. Sts.",26.17
+ECS,United Kingdom,20.2
+ECS,Georgia,3
+SSF,Ghana,4
+ECS,Gibraltar,15.86
+SSF,Guinea,4
+ECS,Greece,14
+LCN,Grenada,16.4
+ECS,Greenland,2.4
+LCN,Guatemala,17.29080875
+EAS,Guam,12.4
+LCN,Guyana,14.2
+EAS,"Hong Kong SAR, China",21
+LCN,Honduras,14.41
+ECS,Croatia,22.9
+LCN,Haiti,12.7
+ECS,Hungary,13
+EAS,Indonesia,14
+ECS,Ireland,12.4
+MEA,"Iran, Islamic Rep.",8.5
+MEA,Iraq,5.29
+ECS,Iceland,9
+MEA,Israel,18
+ECS,Italy,11.6
+LCN,Jamaica,12.2
+MEA,Jordan,16
+EAS,Japan,11
+ECS,Kazakhstan,25
+SSF,Kenya,18.7
+EAS,Cambodia,8.6
+EAS,Kiribati,16.5
+LCN,St. Kitts and Nevis,23.2
+EAS,"Korea, Rep.",24.3
+MEA,Kuwait,20
+EAS,Lao PDR,6.1
+MEA,Lebanon,11.5
+MEA,Libya,7.5
+LCN,St. Lucia,22
+ECS,Liechtenstein,5.4
+SAS,Sri Lanka,7
+ECS,Lithuania,10.15
+ECS,Luxembourg,18
+ECS,Latvia,7.7
+EAS,"Macao SAR, China",7.9
+MEA,Morocco,8
+ECS,Monaco,1
+ECS,Moldova,10
+SAS,Maldives,3
+LCN,Mexico,10.9
+EAS,Marshall Islands,13
+ECS,"Macedonia, FYR",13.9
+SSF,Mali,2
+MEA,Malta,12
+ECS,Montenegro,18.42
+EAS,Mongolia,14.5
+EAS,Northern Mariana Islands,16.5
+SSF,Mauritania,20
+SSF,Mauritius,12.4
+EAS,Malaysia,15
+EAS,New Caledonia,16.5
+SSF,Niger,2
+SSF,Nigeria,4.8
+ECS,Netherlands,14
+ECS,Norway,2.25
+SAS,Nepal,15.14
+EAS,Nauru,16.5
+EAS,New Zealand,8
+MEA,Oman,25.66
+SAS,Pakistan,9
+LCN,Panama,12
+LCN,Peru,10.52
+EAS,Philippines,10.55
+EAS,Palau,32
+EAS,Papua New Guinea,10
+ECS,Poland,12.13
+LCN,Puerto Rico,10.4
+ECS,Portugal,10.72
+MEA,West Bank and Gaza,14.2
+EAS,French Polynesia,2
+MEA,Qatar,14
+ECS,Romania,12.33
+ECS,Russian Federation,14.21
+MEA,Saudi Arabia,11
+SSF,Sudan,12.7
+SSF,Senegal,9
+EAS,Singapore,10.58
+EAS,Solomon Islands,22.35
+LCN,El Salvador,10
+ECS,San Marino,5.6
+ECS,Serbia,12.73
+LCN,Suriname,11
+ECS,Slovak Republic,11
+ECS,Sweden,6.58
+LCN,Sint Maarten (Dutch part),13
+SSF,Seychelles,9.9
+MEA,Syrian Arab Republic,7
+LCN,Turks and Caicos Islands,16.3
+SSF,Chad,6
+SSF,Togo,10
+EAS,Thailand,17.59
+ECS,Turkmenistan,2.19
+EAS,Timor-Leste,16.5
+EAS,Tonga,13.4
+LCN,Trinidad and Tobago,19.17
+MEA,Tunisia,11
+ECS,Turkey,3
+EAS,Tuvalu,16.5
+EAS,NA,20.23
+SSF,Uganda,7.6
+ECS,Ukraine,7
+LCN,Uruguay,11
+NAC,United States,12.9
+ECS,Uzbekistan,2.5
+LCN,St. Vincent and the Grenadines,8.4
+LCN,British Virgin Islands,6.3
+LCN,Virgin Islands (U.S.),13
+EAS,Vietnam,12.15
+EAS,Vanuatu,6.45
+EAS,Samoa,13
+ECS,Kosovo,11
+MEA,"Yemen, Rep.",10
+SSF,South Africa,7.090104302
+SSF,Zimbabwe,23

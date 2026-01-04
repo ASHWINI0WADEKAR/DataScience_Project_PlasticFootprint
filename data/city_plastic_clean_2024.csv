@@ -1,0 +1,284 @@
+region_id,country_name,city_name,composition_plastic_percent
+SAS,Afghanistan,Jalalabad,5.6455
+SAS,Afghanistan,Kandahar,9.643
+SAS,Afghanistan,Mazar-E-Sharif,10.64
+SAS,Afghanistan,Kabul,11
+SAS,Afghanistan,HiratÂ ,12.06
+SSF,Angola,Luanda,12
+ECS,Albania,Korca,11
+ECS,Albania,Vlora,11.1
+MEA,United Arab Emirates,Abu Dhabi,19
+MEA,United Arab Emirates,Dubai,24.23
+LCN,Argentina,CÃ³rdoba,14
+LCN,Argentina,Rosario,11.68
+LCN,Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,16
+ECS,Armenia,Vanadzor,15.75
+ECS,Armenia,Spitak,9.75
+EAS,American Samoa,Pago Pago,12.8
+EAS,Australia,Perth,8.2
+EAS,Australia,Melbourne,15.33
+EAS,Australia,Canberra,4
+ECS,Austria,Vienna,2.9
+ECS,Azerbaijan,Baku,10.4
+ECS,Belgium,Brussels,11
+SSF,Benin,Cotonou,4.43
+SSF,Burkina Faso,Ouagadougou,10
+SAS,Bangladesh,Patuakhali,2.89
+SAS,Bangladesh,Chittagong,7.21
+SAS,Bangladesh,Rangpur,4.55
+SAS,Bangladesh,Dhaka,4.1
+SAS,Bangladesh,Rajshahi,4.05
+ECS,Bosnia and Herzegovina,Banja Luka,22.3
+ECS,Bosnia and Herzegovina,Sarajevo,2.5
+ECS,Belarus,Minsk,10.12
+ECS,Belarus,Grodno,8.6
+LCN,Belize,San Pedro,13
+LCN,Belize,Belize City,21
+LCN,Bolivia,La Paz,15.2
+LCN,Brazil,"Distrito Federal, Brasilia",14.7
+LCN,Brazil,Rio De Janeiro,21.15
+LCN,Brazil,Sao Paulo,10
+SAS,Bhutan,PhuentsholingÂ ,12.1
+SAS,Bhutan,Thimphu,13.5
+SSF,Botswana,Gaborone,4.5
+NAC,Canada,Toronto,11
+NAC,Canada,Ottawa,7.3
+NAC,Canada,Vancouver,17
+LCN,Chile,Santiago De Chile,10
+EAS,China,Beijing,12.7
+SSF,Côte d’Ivoire,Abidjan,8
+SSF,Cameroon,Limbe,12.4
+SSF,"Congo, Rep.",Dolisie,6.2
+LCN,Colombia,BogotÃ¡,19.03
+LCN,Colombia,Medellin,9.37
+LCN,Colombia,Cali,3.21
+LCN,Costa Rica,San JosÃ©,10
+LCN,Costa Rica,Alajuela,12.6
+LCN,Cuba,Havana,8
+ECS,Cyprus,Paralimini,17
+ECS,Germany,Hamburg,1.6
+ECS,Germany,Berlin,8
+LCN,Dominican Republic,Santo Domingo,9
+MEA,Algeria,Algiers,16.88
+MEA,Algeria,Mostaganem,10.5
+LCN,Ecuador,Quito,14.21
+MEA,"Egypt, Arab Rep.",Cairo,3.8
+ECS,Spain,Pamplona,8.2
+ECS,Spain,Madrid,10.4
+ECS,Estonia,Tallinn,14
+ECS,Estonia,Tartummaa,0.07
+SSF,Ethiopia,Adola Woyu,6.3
+SSF,Ethiopia,Bule Hora,5.4
+SSF,Ethiopia,Addis Ababa,12.65
+SSF,Ethiopia,Maichew,5.5
+SSF,Ethiopia,Tepi,1
+SSF,Ethiopia,Gerbe Guracha,4
+SSF,Ethiopia,Weldiya,7.5
+SSF,Ethiopia,Debre Tabor,1
+SSF,Ethiopia,Bati,6.95
+SSF,Ethiopia,Dire Dawa,10
+SSF,Ethiopia,Halaba Kulito,3.7
+SSF,Ethiopia,Dembi Dolo,2.3
+ECS,Finland,Riihimaki,15.8
+ECS,Finland,Turku,17.6
+EAS,Fiji,Suva,8
+ECS,France,Paris,16.7
+EAS,"Micronesia, Fed. Sts.",Pohnpei,25
+ECS,United Kingdom,London,6
+ECS,United Kingdom,Bristol,11
+ECS,Georgia,Tbilisi,13
+SSF,Ghana,Accra,10.4
+SSF,Ghana,Kumasi,17.6
+SSF,Guinea,Conakry,5.3
+SSF,Equatorial Guinea,Labe,22.8
+ECS,Greece,Athens,0.01
+ECS,Greece,Thessaloniki,13.9
+LCN,Guatemala,Guatemala City,17
+LCN,Guatemala,Antigua Guatemala,12
+LCN,Guatemala,Jutiapa,11.8
+LCN,Honduras,Tegucigalpa,8
+LCN,Honduras,San Pedro Sula,11.26
+ECS,Croatia,Zagreb,21.9
+LCN,Haiti,Port Au Prince,15.4
+ECS,Hungary,Debrecen,15.42
+ECS,Hungary,Budapest,21.2
+EAS,Indonesia,Jakarta,13.25
+SAS,India,Kota,15
+SAS,India,Amritsar,1
+SAS,India,Greater Hyderabad Â ,8.61
+SAS,India,Kochi,21.6
+SAS,India,Pune,5
+SAS,India,Jodhpur,15.34
+SAS,India,Nagpur,12
+SAS,India,Bengaluru,12
+SAS,India,Pimpri-Chinchwad,13.67
+SAS,India,Kanpur,2.25
+SAS,India,Rajkot,2.11
+SAS,India,Ludhiana,16
+SAS,India,Tadipatri,12.5
+SAS,India,Faridabad,16.08
+SAS,India,Ahmedabad,10
+SAS,India,Itanagar,7
+SAS,India,Ghaziabad,9.12
+SAS,India,Imphal,5
+SAS,India,Chennai,7.04
+SAS,India,Indore,3.5
+SAS,India,GwaliorÂ ,11.25
+SAS,India,Mysore,13
+SAS,India,Warangal,13.74
+ECS,Ireland,Dublin,8
+MEA,"Iran, Islamic Rep.",Tehran,7
+ECS,Italy,Parma,26.4
+ECS,Italy,Milano,12.6
+MEA,Jordan,Amman,16
+EAS,Japan,Yokohama,11.88
+EAS,Japan,Kobe,13.4
+EAS,Japan,Osaka,19.9
+EAS,Japan,Naha,31.5
+EAS,Japan,Kitakyushu,8.7
+EAS,Japan,Toyama,15.1
+ECS,Kazakhstan,Atyrau,8.3
+SSF,Kenya,Nairobi,16.1
+ECS,Kyrgyz Republic,Osh,13.11
+ECS,Kyrgyz Republic,Bishkek,7
+EAS,Cambodia,Phnom Penh,6
+EAS,Kiribati,South Tarawa,6.6
+EAS,"Korea, Rep.",Seoul,5.9
+EAS,Lao PDR,Vientiane,12
+MEA,Lebanon,Beirut,13
+MEA,Lebanon,Saida,17
+SSF,Liberia,Monrovia,11
+MEA,Libya,Tripoli,18.6
+SAS,Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,10.5
+SAS,Sri Lanka,Kurunegala,6.2
+SAS,Sri Lanka,Trincomalee,3
+SAS,Sri Lanka,Jaffna,4
+SAS,Sri Lanka,Moratuwa,10.5
+SAS,Sri Lanka,Colombo,9.2
+ECS,Lithuania,Vilnius,9.9
+ECS,Lithuania,Kaunas,19.66
+ECS,Latvia,Liepaja,9
+MEA,Morocco,Tangier,11
+MEA,Morocco,Beni Mellal,7
+ECS,Moldova,Soldanesti,9.1
+ECS,Moldova,Chisinau,5
+SSF,Madagascar,Antananarivo,11.1
+SAS,Maldives,Male,10
+SAS,Maldives,Addu,5
+SAS,Maldives,Fuahmulah,6.93
+LCN,Mexico,MÃ©xico City,13.16
+LCN,Mexico,Guadalajara,18.96
+LCN,Mexico,Monterrey,16.18
+EAS,Marshall Islands,Majuro,12.5
+ECS,"Macedonia, FYR",Kratovo,4.6
+ECS,"Macedonia, FYR",Skopje,12.4
+SSF,Mali,Bamako,16
+EAS,Myanmar,Mandalay,15
+EAS,Myanmar,Yangon,8
+ECS,Montenegro,Podgorica,15.61
+EAS,Mongolia,Ulaanbaatar,18
+SSF,Mozambique,Maputo,10
+SSF,Mauritania,Nouakchott,21
+EAS,Malaysia,Kuala Lumpur,24.74
+SSF,Namibia,Windhoek,16
+SSF,Niger,Niamey,2
+SSF,Nigeria,Lagos,15
+SSF,Nigeria,Kano,4
+SSF,Nigeria,Oyo,18.8
+SSF,Nigeria,Ibadan,9
+LCN,Nicaragua,Puerto Cabezas,6.66
+LCN,Nicaragua,Managua,8.37
+ECS,Netherlands,Amsterdam,6.4
+ECS,Netherlands,Eindhoven,14
+ECS,Norway,Bergen,8
+ECS,Norway,Oslo,5
+SAS,Nepal,Butwal,13.46
+SAS,Nepal,Pokhara,9.92
+SAS,Nepal,Dhankuta,17.85
+SAS,Nepal,Birgunj,14.46
+SAS,Nepal,Kathmandu,20.14
+SAS,Nepal,Lalitpur,15.56
+SAS,Nepal,Badimalika,6.87
+SAS,Nepal,Bharatpur,5.61
+SAS,Nepal,Dharan,16.19
+SAS,Nepal,Bhimeshwor,8.17
+SAS,Nepal,Biratnagar,11.99
+SAS,Nepal,Bhaktapur,13.24
+EAS,New Zealand,Auckland,11.2
+EAS,New Zealand,Wellington,38
+SAS,Pakistan,Karachi,6.4
+SAS,Pakistan,Lahore,0.61
+SAS,Pakistan,Sialkot,12.8
+LCN,Panama,PanamÃ¡ City,12
+LCN,Peru,Cusco,11.63
+EAS,Philippines,Cebu,15
+EAS,Philippines,Quezon City,9.64
+EAS,Palau,Koror,48
+EAS,Papua New Guinea,Port Moresby,18.5
+ECS,Poland,KrakÃ³w,14.59
+ECS,Portugal,Lisbon,13
+ECS,Portugal,GuimarÃ£es,12.33
+LCN,Paraguay,AsunciÃ³n,4.2
+LCN,Paraguay,Ciudad Del Este,10.3
+LCN,Paraguay,San Lorenzo,12
+ECS,Romania,Cluj-Napoca,9
+ECS,Romania,Bucharest,9.42
+ECS,Russian Federation,Moscow,13
+ECS,Russian Federation,St.petersburg,5.8
+ECS,Russian Federation,Kemerovo,13
+SSF,Rwanda,KigaliÂ ,1.5
+MEA,Saudi Arabia,Jeddah,16
+MEA,Saudi Arabia,Riyadh,13.3
+EAS,Solomon Islands,Honiara,19.5
+SSF,Sierra Leone,Freetown,0.9
+LCN,El Salvador,San Salvador,11
+SSF,Somalia,Hargeysa,16
+ECS,Serbia,Belgrade,14.92
+ECS,Serbia,Novi Sad,12.08
+SSF,South Sudan,Juba,20
+ECS,Slovak Republic,Trnava,5.78
+ECS,Slovak Republic,Bratislava,9
+ECS,Sweden,BorÃ¥s,0.7
+ECS,Sweden,Stockholm,10.2
+MEA,Syrian Arab Republic,Damascus,6.9
+EAS,Thailand,Bangkok,25.01
+ECS,Tajikistan,Khujand,10
+ECS,Turkmenistan,Ashgabat,3
+EAS,Timor-Leste,Dili,18
+EAS,Tonga,Tongatapu,13.4
+EAS,Tonga,Vavaâ€™u,13.4
+MEA,Tunisia,Tunis,10.15
+MEA,Tunisia,Sfax,11
+MEA,Tunisia,Sousse,9
+ECS,Turkey,Sakarya Mm,15.9
+ECS,Turkey,Bursa Mm (Metropolitan Municipality),15.5
+EAS,Tuvalu,Funafuti,9.3
+SSF,Tanzania,Dar Es Salaam,2
+SSF,Tanzania,Moshi,9
+SSF,Tanzania,Mountain Kilimanjaro,24
+SSF,Uganda,Kampala,1.6
+ECS,Ukraine,Pavlograd,12.6
+ECS,Ukraine,Kiev,7
+LCN,Uruguay,Montevideo,15.87
+NAC,United States,Seattle,11.5
+EAS,Vietnam,Hanoi,8.6
+EAS,Vietnam,Ho Chi Minh City,16
+EAS,Vanuatu,Port Vila,7.9
+EAS,Samoa,Upolu (Apia),13.04
+ECS,Kosovo,Pristina,14.78
+MEA,"Yemen, Rep.",SanaÃ¡,10
+SSF,South Africa,Cape Town,6
+SSF,South Africa,Soweto,3
+SSF,South Africa,BloemfonteinÂ ,17.7
+SSF,South Africa,Durban,17.4
+SSF,Zambia,NdolaÂ ,8.33
+SSF,Zambia,Lusaka,7
+SSF,Zimbabwe,Kadoma City,7
+SSF,Zimbabwe,Mbare,11
+SSF,Zimbabwe,Norton,9.1
+SSF,Zimbabwe,Chinhoyi,8.6
+SSF,Zimbabwe,HarareÂ ,18.1
+SSF,Zimbabwe,Gweru,10.2
+SSF,Zimbabwe,Kariba,11
+SSF,Zimbabwe,Masvingo City,40
+SSF,Zimbabwe,SakubvaÂ ,23
